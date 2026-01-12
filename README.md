@@ -19,8 +19,11 @@ Link to dataset:
 ## Hyptheses/Question
 
 1. Is there a correlation bw this coffee type and this time of day?
-2. 
+2. Is there a correlation bw money spent and time of day?
+3. Is there a correlation bw card type and hour of the day?
+4. Is there a correlation bw month and frequency per month?
 
 ## Visualization Plan
+* Split bar chart
 
 Come up with ideas for graphs to test your hypotheses
