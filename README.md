@@ -1,12 +1,26 @@
-# Python Template for CS3 
+# EDA Project
 
-This repository provides a simple **template** with `Python` starter code. You can create your own copy by clicking `Use This Template` whenever you need to start a new Python program. For **unit notes**, **project instructions**, and **helpful resources**, refer to our course website: 📖 [PythonDocs](https://coderina.dev/pythondocs/)
+Link to dataset:
+[LINK TEXT](LINK ADDRESS)
 
-> ⚠️ _DO NOT modify the following files:_ `.devcontainer`, `.vscode`
+## Column Descriptions
 
-### 💻 Codespaces Instructions
-1. Click the green `<> Code` button in the top right area above the list of files
-2. Select the `Codespaces` tab and click `Open new Codespace on main`
-3. Wait for the Codespace to setup (_it will take some time because VSCode extensions are being installed_)
-4. After the extensions load, you can open `main.py` from the **File Explorer** menu on the left, and now you're ready to code!
-5. Always make sure to `commit changes` before closing a Codespace! 
+* Hour of the day: hour when the sale happened
+* Cash type: payment method used (cash/card)
+* Money: total amount spent in transaction
+* Coffee name: name of the coffee product purchased
+* Time of day: part of the day (morning/afternoon/evening)
+* Weekday: day of the week sale occurred
+* Month name: month in which sale was made
+* Weekday sort: numeric value to sort days of the week
+* Month sortL numeric value to sort days of the month
+* Date: calendar date of the sale
+
+## Hyptheses/Question
+
+1. Is there a correlation bw this coffee type and this time of day?
+2. 
+
+## Visualization Plan
+
+Come up with ideas for graphs to test your hypotheses
