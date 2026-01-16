@@ -25,5 +25,5 @@ Link to dataset:
 
 ## Visualization Plan
 * Split bar chart
+* WORD CLOUD FOR COFEE TYPEE!!!!
 
-Come up with ideas for graphs to test your hypotheses
